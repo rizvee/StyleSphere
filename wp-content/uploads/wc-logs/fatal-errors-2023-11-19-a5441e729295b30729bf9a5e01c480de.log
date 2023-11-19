@@ -1,0 +1,4 @@
+2023-11-19T16:17:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\StyleSphere\wp-includes\class-wpdb.php on line 2349
+
+2023-11-19T16:22:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\StyleSphere\wp-content\plugins\simply-static\src\models\class-ss-model.php on line 95
+
