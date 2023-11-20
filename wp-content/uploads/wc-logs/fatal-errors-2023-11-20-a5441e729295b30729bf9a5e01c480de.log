@@ -1,0 +1,4 @@
+2023-11-20T06:57:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\StyleSphere\wp-includes\formatting.php on line 5972
+
+2023-11-20T07:00:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\StyleSphere\wp-content\plugins\simply-static\src\tasks\class-ss-setup-task.php on line 213
+
